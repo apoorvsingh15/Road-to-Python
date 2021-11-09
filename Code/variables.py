@@ -7,7 +7,7 @@ print(a + b)
 c = 2.4544
 d = 4.0
 
-print(c+d)
+print(c+d, type(c))
 
 
 def cube(x):
